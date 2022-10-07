@@ -1,1 +1,1 @@
-Try to develop https://github.com/samdup123/tic-tac-toe-ai.git
+Try to develop https://www.freecodecamp.org/news/building-an-ai-algorithm-for-the-tic-tac-toe-challenge-29d4d5adee07/
